@@ -1,6 +1,7 @@
 {
   "name": "github-actions-sh",
   "version": "0.1.0",
+  "homepage": "https://2662419405.github.io/sh-github-actions",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
